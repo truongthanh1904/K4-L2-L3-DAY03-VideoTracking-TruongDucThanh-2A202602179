@@ -3,6 +3,9 @@
 gold/*
 !gold/.gitkeep
 
+# Local reference export; do not publish instructor/reference labels.
+data/clips/clip_01/gt/
+
 # Kết quả học viên được phép commit có chủ đích.
 outputs/*
 !outputs/.gitkeep
